@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "playlixt"
+    }
+  },
+  "defaultProject": "playlixt",
+  "cli": {
+    "analytics": "1d6efdd2-c6c0-4267-a6d3-0ac353d5b371"
+  }
 }
